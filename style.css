@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first > button{
+    width: 136px;
+height: 40px;
+flex-shrink: 0;
+border-radius: 20px;
+border: 1px solid #FF52C1;
+background: #FFF;
+box-shadow: 0px 0px 9px 0px rgba(255, 82, 193, 0.22);
+color: #FF52C1;
+margin-left: 1000px;
+}
+.first >h1{
+    color: #00252E;
+font-size: 48px;
+font-family: Poppins;
+font-weight: 700;
+line-height: 72px;
+padding-top: 343px;
+margin-left: 215px;
+}
+.first > p{
+    display: flex;
+width: 600px;
+flex-direction: column;
+flex-shrink: 0;
+color: #00252E;
+text-align: center;
+font-size: 20px;
+font-family: Open Sans;
+line-height: 30px;
+padding-top: 26px;
+margin-left: 420px;
+margin-bottom: 49px;
+}
+.but1{
+    width: 400px;
+height: 80px;
+flex-shrink: 0;
+background-color: #FF52C1;
+color: #FFF;
+border-radius: 40px;
+margin-left: 520px;
+}
+.second{
+    display: flex;
+    flex-direction: row;
+    margin-left: 280px;
+    margin-top: 100px;
+}
+.second > h1{
+    color: #00252E;
+font-size: 96px;
+font-family: Open Sans;
+font-weight: 700;
+line-height: 144px;
+}
+.second > img{
+    width: 56px;
+height: 56px;
+flex-shrink: 0;
+}
+.third{
+    display: flex;
+    flex-direction: column;
+}
+.third> img{
+    margin-left: 771px;
+    width: 517.222px;
+height: 423.111px;
+flex-shrink: 0;
+}
+.third > p{
+    width: 517.222px;
+height: 423.111px;
+flex-shrink: 0;
+color: #00252E;
+font-size: 16px;
+font-family: Open Sans;
+line-height: 24px;
+}
+.third > h1{
+    color: #00252E;
+font-size: 40px;
+font-family: Poppins;
+font-weight: 700;
+line-height: 60px;
+}
+.third > h1,p{
+    top: 1000px;
+}
+.fourht > img{
+    width: 531px;
+height: 378px;
+flex-shrink: 0;
+margin-left: 135px;
+}
+.fourht > h1{
+    color: #00252E;
+font-size: 40px;
+font-family: Poppins;
+font-weight: 700;
+line-height: 60px;
+}
+.fourht > p{
+    display: flex;
+width: 520px;
+flex-direction: column;
+flex-shrink: 0;
+color: #00252E;
+font-size: 16px;
+font-family: Open Sans;
+line-height: 24px;
+}
+.fourht > h1,p{
+    margin-left: 800px;
+}
+.fifth > img{
+    margin-left: 874px;
+}
+.fifth > h1,p{
+    display: flex;
+    flex-direction: row;
+    margin-left: 221px;
+    margin-top: 100px;
+}
+.fifth > h1{
+    color: #00252E;
+font-size: 40px;
+font-family: Poppins;
+font-weight: 700;
+line-height: 60px;
+margin-top: 10px;
+}
+.fifth > p{
+    display: flex;
+width: 520px;
+flex-direction: column;
+flex-shrink: 0;
+color: #00252E;
+font-size: 16px;
+font-family: Open Sans;
+line-height: 24px;
+}
+.sixsth >h1{
+    color: #00252E;
+font-size: 40px;
+font-family: Poppins;
+font-weight: 700;
+line-height: 60px;
+margin-left: 389px;
+}
+.sixsth> button{
+    width: 400px;
+height: 80px;
+flex-shrink: 0;
+color: #FFF;
+background-color: #FF52C1;
+border-radius: 40px;
+margin-left: 520px;
+margin-top: 52px;
+margin-bottom: 50px;
+}
+.seven > p{
+    display: flex;
+width: 340px;
+flex-direction: column;
+flex-shrink: 0;
+color: #FFF;
+font-size: 14px;
+font-family: Open Sans;
+font-weight: 600;
+line-height: 24px;
+margin: 5px;
+display: flex;
+flex-direction: column;
+}
+.eight > button{
+    width: 160px;
+height: 48px;
+flex-shrink: 0;
+border-radius: 5px;
+background: #FF52C1;
+}
+.eight > p {
+    display: flex;
+width: 344px;
+flex-direction: column;
+flex-shrink: 0;
+color: #FFF;
+font-size: 14px;
+font-family: Open Sans;
+font-weight: 600;
+line-height: 24px;
+}
+.eight{
+    display: flex;
+    flex-direction: column;
+    margin-left: 800px;
+    margin-bottom: 500px;
+    margin: 5px;
+}
+.eight > input{
+    width: 320px;
+height: 48px;
+flex-shrink: 0;
+border-radius: 6px;
+background: #FFF;
+}
